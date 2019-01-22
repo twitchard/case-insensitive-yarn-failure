@@ -1,8 +1,8 @@
 I'm encountering a case-insensitivity issue that only manifests when running yarn
 
-    * on a Mac
-    * inside a container
-    * on a bind-mounted volume from the host
+* on a Mac
+* inside a container
+* on a bind-mounted volume from the host
 
 Here are steps to reproduce:
 
