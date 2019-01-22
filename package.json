@@ -1,0 +1,7 @@
+{
+ "name": "fsissue",
+ "dependencies": {
+   "ts-loader": "3.1.1",
+   "typescript": "3.3.0-dev.20181208"
+ }
+}
