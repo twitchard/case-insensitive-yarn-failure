@@ -22,6 +22,11 @@ Here are steps to reproduce:
     ```
 5. Observe an error
     ```
-
+    error An unexpected error occurred: "EEXIST: file already exists, mkdir '/app/node_modules/typescript/lib/zh-cn'".
     ```
 6. Observe the state of the filesystem:
+    ```
+    $ ls node_modules/typescript/lib
+    cs  es  it  ko  pt-BR   tr  zh-tw
+    de  fr  ja  pl  ru  zh-CN
+    ```
